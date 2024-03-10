@@ -1,4 +1,4 @@
-name: Example Required Workflow 2
+name: policy-enforce-pr-2
 on:
   pull_request:
 jobs:
